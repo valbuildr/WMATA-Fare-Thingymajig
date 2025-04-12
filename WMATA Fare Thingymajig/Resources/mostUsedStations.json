@@ -1,0 +1,30 @@
+[
+    {
+        "id": "A01",
+        "name": "Metro Center"
+    },
+    {
+        "id": "C04",
+        "name": "Foggy Bottom-GWU"
+    },
+    {
+        "id": "A02",
+        "name": "Farragut North"
+    },
+    {
+        "id": "C03",
+        "name": "Farragut West"
+    },
+    {
+        "id": "D03",
+        "name": "L'Enfant Plaza"
+    },
+    {
+        "id": "B01",
+        "name": "Gallery Pl-Chinatown"
+    },
+    {
+        "id": "B03",
+        "name": "Union Station"
+    }
+]
